@@ -1,6 +1,6 @@
 cask "sourcefoundry-slice" do
-    version "0.3.0"
-    sha256 "af0ecf7d77990986a344f018993da5134284da99beac79a8b79a28037d780f14"
+    version "0.3.1"
+    sha256 "231a2b7276daf21fa4956e980bb0bb76ad8ec0b86a28408f64243aaa8af2c2b2"
   
     url "https://github.com/source-foundry/Slice/releases/download/v#{version}/Slice.#{version}.dmg"
     # appcast "https://github.com/source-foundry/Slice/releases.atom"
